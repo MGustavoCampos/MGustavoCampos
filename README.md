@@ -2,7 +2,6 @@
 
 - 🔭 Hoje procuro uma oportunidade de trabalho
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
