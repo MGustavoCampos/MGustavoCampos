@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo Campos!!
 
-- 🔭 Hoje procuro uma oportunidade de trabalho
+- 🔭 Hoje procuro uma oportunidade de trabalho em desenvolvimento
 - 🌱 Estudando JavaScript
 
 
